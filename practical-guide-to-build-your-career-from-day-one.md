@@ -12,7 +12,7 @@ In the ever-changing tech landscape, tools and frameworks come and go, but core 
 
 **Actionable Tip:** Instead of jumping straight into coding with a new tool, spend a week understanding the underlying concepts. For example, before diving into AWS Lambda, study how serverless architecture works.
 
-## 2. Master the Fundamentals Before Chasing Shiny New Tech 🛠️
+## 2. Master the Fundamentals Before Chasing Shiny New Tech
 
 It’s tempting to dive into the latest and greatest technologies, but your time is better spent mastering the fundamentals first. Know the “why” behind what you’re doing:
 
